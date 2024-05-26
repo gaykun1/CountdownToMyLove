@@ -15,7 +15,7 @@ function countDown(){
 	daysDisplay.innerHTML=days;
 	hoursDisplay.innerHTML=formatTime(hours);
 	minutesDisplay.innerHTML=formatTime(minutes);
-	secondsDisplay.innerHTML=formatTime(seconds);
+secondsDisplay.innerHTML=formatTime(seconds);
 
 	
 }
