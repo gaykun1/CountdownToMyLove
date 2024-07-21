@@ -1,4 +1,4 @@
-const birthday='22 Jun 2024';
+const birthday='22 Jun 2025';
 const daysDisplay = document.querySelector('#days')
 const hoursDisplay = document.querySelector('#hours')
 const minutesDisplay = document.querySelector('#minutes')
